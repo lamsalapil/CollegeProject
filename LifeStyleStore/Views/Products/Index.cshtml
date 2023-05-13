@@ -1,0 +1,71 @@
+﻿@model IEnumerable<ProductModel>
+
+@{
+    ViewData["Title"] = "List of Products";
+   
+}
+
+<div class="row">
+   @foreach(var item in Model)
+   {
+        <div class="col-md-4 col-xs-6 border-primary mb-3">
+            <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-12">
+                        <div class="card-header text-white bg-info">
+                            <p class="card-text">
+                                <h5 class="card-title">
+                                    @item.Name
+                                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin")){
+                                        <a class="btn btn-outline-secondary text-white float-right" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                                    }
+                                    
+                                </h5>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="@item.photo" width="100%" alt="@item.Name">
+                      
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card-body">
+                            <p class="card-text align-content-center">
+                                <h5 class="card-title">
+                                    @item.Name
+                                </h5>
+                                
+                             </p>
+                                
+                            <p class="card-text">@item.Price</p>
+                            
+                           
+                          
+
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="card-footer ">
+                            <p class="card-text">
+                               
+
+                                <a class="btn btn-outline-primary float-right" asp-action="Detail" asp-route-id="@item.Id" >
+                                    Show Details
+                                </a>
+
+                                <a class="btn btn-outline-info float-left" asp-controller="Orders" asp-action="AddToShoppingCart" asp-route-id="@item.Id" >
+                                    <i class="bi bi-cart-plus" ></i> Add to Cart </a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+   }
+</div>
+@if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+{
+    <div style="position:fixed; right: 25px; bottom: 25px; margin-bottom:100px" class="text-white">
+        <a asp-controller="Products" asp-action="Create" class="btn btn-success"> Add Product</a>
+    </div>
+}

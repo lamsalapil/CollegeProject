@@ -1,0 +1,190 @@
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.RazorAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.RazorAssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\appsettings.Development.json
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\appsettings.json
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.exe
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.deps.json
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.runtimeconfig.json
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.pdb
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.Views.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.Views.pdb
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Humanizer.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\scopedcss\bundle\LifeStyleStore.styles.css
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\staticwebassets\LifeStyleStore.StaticWebAssets.Manifest.cache
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.TagHelpers.input.cache
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.TagHelpers.output.cache
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.RazorCoreGenerate.cache
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Brands\Index.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.Views.pdb
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\refint\LifeStyleStore.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.pdb
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\ref\LifeStyleStore.dll
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Brands\Create.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Brands\Details.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Brands\Edit.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Brands\Delete.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Products\Detail.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Admin_Layout.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+C:\Users\LENOVO\source\repos\LifeStyleStore\obj\Release\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+D:\New folder\LifeStyleStore\bin\Release\net5.0\appsettings.Development.json
+D:\New folder\LifeStyleStore\bin\Release\net5.0\appsettings.json
+D:\New folder\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.exe
+D:\New folder\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.deps.json
+D:\New folder\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.runtimeconfig.json
+D:\New folder\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.runtimeconfig.dev.json
+D:\New folder\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.pdb
+D:\New folder\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.Views.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\LifeStyleStore.Views.pdb
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Humanizer.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.Identity.Client.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\LifeStyleStore\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\LifeStyleStore\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\LifeStyleStore\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\LifeStyleStore\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\LifeStyleStore\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.csproj.AssemblyReference.cache
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.AssemblyInfoInputs.cache
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.AssemblyInfo.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.csproj.CoreCompileInputs.cache
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.RazorAssemblyInfo.cache
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.RazorAssemblyInfo.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\scopedcss\bundle\LifeStyleStore.styles.css
+D:\New folder\LifeStyleStore\obj\Release\net5.0\staticwebassets\LifeStyleStore.StaticWebAssets.Manifest.cache
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.TagHelpers.input.cache
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.TagHelpers.output.cache
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.RazorCoreGenerate.cache
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Admin_Layout.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Brands\Create.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Brands\Delete.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Brands\Details.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Brands\Edit.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Brands\Index.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Products\Detail.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.RazorTargetAssemblyInfo.cache
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.RazorTargetAssemblyInfo.cs
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.Views.pdb
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.csproj.CopyComplete
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.dll
+D:\New folder\LifeStyleStore\obj\Release\net5.0\refint\LifeStyleStore.dll
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.pdb
+D:\New folder\LifeStyleStore\obj\Release\net5.0\LifeStyleStore.genruntimeconfig.cache
+D:\New folder\LifeStyleStore\obj\Release\net5.0\ref\LifeStyleStore.dll

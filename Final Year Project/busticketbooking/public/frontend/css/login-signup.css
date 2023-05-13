@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600&family=Poppins:wght@400;500;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.row1 {
+    background: white;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px;
+    display: flex;
+}
+
+.login img {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.login h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: 'Dancing Script', cursive;
+    background-image: linear-gradient(45deg, #f3ec78, #af4261);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+.inp {
+    height: 50px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    box-shadow: 2px 5px 9px 0px rgba(191, 62, 62, 0.61);
+    -webkit-box-shadow: 2px 5px 9px 0px rgba(191, 62, 62, 0.61);
+    -moz-box-shadow: 2px 5px 9px 0px rgba(191, 62, 62, 0.61);
+}
+
+.btn1 {
+    background-image: linear-gradient(to right, #70e1f5 0%, #ffd194 51%, #70e1f5 100%);
+    height: 50px;
+    width: 50%;
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    border: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 60px;
+    /* display: block; */
+}
+
+.btn1:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    font-size: 2.5rem;
+    color: darkblue;
+}
+
+.fa-google-plus {
+    font-size: 2.5rem;
+    color: red;
+}
+
+.fa-at {
+    font-size: 1rem;
+    color: orchid;
+}
+
+.fa-lock {
+    font-size: 1rem;
+    color: orchid;
+}
+
+.fa-user {
+    font-size: 1rem;
+    color: orchid;
+}
+
+/* responsive */
+@media (max-width: 820px) {
+    .row1 {
+        background: white;
+        border-radius: 30px;
+        box-shadow: 12px 12px 22px;
+        /* display: flex; */
+    }
+
+    .login img {
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+
+    .login h1 {
+        font-size: 2rem;
+        font-weight: 700;
+        font-family: 'Dancing Script', cursive;
+        background-image: linear-gradient(45deg, #f3ec78, #af4261);
+        /* background-size: 100%; */
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        -moz-text-fill-color: transparent;
+
+    }
+
+    .inp {
+        /* align-items: center; */
+        height: 50px;
+        width: 100%;
+        border: none;
+        outline: none;
+        border-radius: 60px;
+        box-shadow: 2px 5px 9px 0px rgba(191, 62, 62, 0.61);
+        -webkit-box-shadow: 2px 5px 9px 0px rgba(191, 62, 62, 0.61);
+        -moz-box-shadow: 2px 5px 9px 0px rgba(191, 62, 62, 0.61);
+    }
+
+    .btn1 {
+        background-image: linear-gradient(to right, #70e1f5 0%, #ffd194 51%, #70e1f5 100%);
+        height: 50px;
+        width: 90%;
+        margin-right: 38px;
+        padding: 15px 45px;
+        /* text-align: center; */
+        border: none;
+        text-transform: uppercase;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 0 20px #eee;
+        border-radius: 60px;
+        /* display: block; */
+    }
+
+    .btn1:hover {
+        background-position: right center;
+        /* change the direction of the change here */
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .fa-at {
+        font-size: 0rem;
+        /* color: orchid; */
+        /* margin-bottom: 5px; */
+    }
+
+    .fa-lock {
+        font-size: 0rem;
+        /* color: orchid; */
+        /* margin-bottom: 5px; */
+    }
+
+    .fa-user {
+        font-size: 0rem;
+    }
+}

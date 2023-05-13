@@ -1,0 +1,55 @@
+﻿@model IEnumerable<BrandModel>
+
+@{
+    ViewData["Title"] = "list of Brands";
+    
+}
+
+<div class="row">
+    <div class="col-md-8 offset-2">
+        <table class="table">
+            <thead>
+                <tr>
+                    
+                    <th>@Html.DisplayNameFor(model => model.BrandLogo)</th>
+                    <th>@Html.DisplayNameFor(model => model.BrandName)</th>
+                    <th>@Html.DisplayNameFor(model => model.BrandDetails)</th>
+                    @if(User.Identity.IsAuthenticated && User.IsInRole("Admin")){
+                        <th>Actions</th>
+                    }
+                    
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        
+                        <td class="align-middle">
+                            <img class="rounded-circle" src="@item.BrandLogo" alt="@item.BrandName" style="max-width: 150px">
+                        </td>
+                        <td class="align-middle">
+                            @Html.DisplayFor(modelItem => item.BrandName)
+                        </td>
+                        <td class="align-middle">
+                            @Html.DisplayFor(modelItem => item.BrandDetails)
+                        </td>
+
+                        @if (User.Identity.IsAuthenticated && User.IsInRole("Admin")){
+                            <td class="align-middle">
+                                <a class="btn btn-outline-primary" asp-action="Edit" asp-route-id="@item.Id"> Edit</a>
+                                <a class="btn btn-outline-info " asp-action="Details" asp-route-id="@item.Id"> Details</a>
+                                <a class="btn btn-outline-danger" asp-action="Delete" asp-route-id="@item.Id"> Delete</a>
+                            </td>
+                        }
+                       
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div style="position:fixed; right: 25px; bottom: 25px; margin-bottom:100px" class="text-white">
+    <a asp-controller="Brands" asp-action="Create" class="btn btn-success"> Add New Brand</a>
+</div>
